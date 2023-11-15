@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data Structure & Algorithm ,Node.js,React**
 
-- 👯 I’m looking to collaborate on **Bac**
+
 
 - 💬 Ask me about **React, Django , MERN Stack**
 
