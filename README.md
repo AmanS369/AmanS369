@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amans369&label=Profile%20views&color=0e75b6&style=flat" alt="amans369" /> </p>
 
 - 🔭 I’m currently working on **Road Accident Detection**
-- 🌱 Intern at **IISER Mohali**
+- 🌱 Software Engineer at **Clearing Corporation Of India**
 
 - 🌱 I’m currently learning **Data Structure & Algorithm ,Node.js,React**
 
